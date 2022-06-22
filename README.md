@@ -1,12 +1,19 @@
-# Jobify
+## Track Job Applications
 
-#### Track Your Job Search
+Track job applications. Add, edit, delete, see stats. Full stack MERN application.
 
-Project in Action - [Jobify](https://www.jobify.live/)
+<img width="665" alt="jobify" src="https://user-images.githubusercontent.com/43181662/175124799-6b38580a-6901-4fb9-b006-9bf130800a65.png">
 
-#### Support
+## CocktailsDB API with React
 
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+<a href="https://proj-mern-jobify-js.herokuapp.com/all-jobs" target="_blank">Job Tracker</a>
+
+## Technologies
+
+:coffee: **_MongoDB_**
+:coffee: **_ExpressJS_**
+:coffee: **_React_**
+:coffee: **_Node_**
 
 #### Run The App Locally
 
