@@ -10,7 +10,8 @@
     "heroku-postbuild": "npm run install-client && npm run build-client",
     "server": "nodemon server --ignore client",
     "client": "npm start --prefix client",
-    "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\" "
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\" ",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -36,6 +37,6 @@
     "xss-clean": "^0.1.1"
   },
   "engines": {
-    "node": "16.x"
+    "node": "16.14.0"
   }
 }
