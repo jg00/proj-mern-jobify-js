@@ -11,8 +11,11 @@ Track job applications. Add, edit, delete, see stats. Full stack MERN applicatio
 ## Technologies
 
 :coffee: **_MongoDB_**
+
 :coffee: **_ExpressJS_**
+
 :coffee: **_React_**
+
 :coffee: **_Node_**
 
 #### Run The App Locally
